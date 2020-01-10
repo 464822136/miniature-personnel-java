@@ -17,7 +17,7 @@
     <properties>
         <pageheleper-version>1.2.10</pageheleper-version>
         <mybatis-version>4.1.5</mybatis-version>
-        <mchange.c3p0-version>0.9.5.2</mchange.c3p0-version>
+        <mchange.c3p0-version>0.9.5.4</mchange.c3p0-version>
         <mchange.commons-version>0.2.15</mchange.commons-version>
         <fastjson-version>1.2.7</fastjson-version>
     </properties>
